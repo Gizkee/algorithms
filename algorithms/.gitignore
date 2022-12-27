@@ -1,3 +1,5 @@
+.DS_Store
+
 ### Java template
 # Compiled class file
 *.class
@@ -46,4 +48,3 @@ gradle-app.setting
 .project
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
-
